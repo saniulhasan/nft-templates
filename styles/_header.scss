@@ -1,0 +1,39 @@
+.menu_container{
+   
+  padding:1.9rem 3.5rem;
+}
+
+.menu{
+
+  display:flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.logo{
+  display:flex;
+  align-items: center;
+  gap:1.313rem;
+}
+.main_menu{
+
+  ul{
+
+      list-style: none;
+      display:flex;
+      gap:2.625rem;
+      
+  }
+ a{
+  text-decoration: none;
+  font-family: "Work Sans", sans-serif;
+  font-size: 16px;
+  color:#FFFFFF;
+ }
+  
+}
+.sign_up{
+  padding:1.375rem 1.75rem;
+  background-color: #A259FF;
+  border-radius: 15px;
+  
+}

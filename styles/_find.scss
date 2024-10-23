@@ -1,0 +1,62 @@
+.highlight{
+    /* Set a specific height */
+    
+
+    /* Background image */
+    background-image: url('../images/high.png');
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+
+    /* Other background properties */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    width:100%;
+  }
+
+  .find{
+
+    h2{
+        color:#FFFFFF;
+        font-family: "Work Sans", sans-serif;
+        font-size:22px;
+
+    }
+  }
+
+.find_card{
+
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-between;
+}
+
+  .find_section{
+
+    background-color:#3B3B3B;
+     max-width: 330px;
+     max-height: 439px;
+     display: flex;
+     justify-content: center;
+     flex-direction: column;
+     text-align: center;
+    
+     padding:20px;
+     border-radius: 22px;
+     h2{
+        color:#FFFFFF;
+        font-family: "Work Sans", sans-serif;
+        font-size:22px;
+        margin-top: 15px;
+        margin-bottom: 10px;
+
+     }
+     p{
+        color:#FFFFFF;
+        font-family: "Work Sans", sans-serif;
+        font-size:16px;
+
+     }
+  }

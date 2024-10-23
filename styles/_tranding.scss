@@ -1,0 +1,63 @@
+.tranding_images{
+    margin-top: 64px;
+    display: flex;
+    justify-content: space-between;
+}
+.tranding_content{
+
+    h3{
+        font-family: "Work Sans", sans-serif;
+        font-size: 38px;
+        color:#FFFFFF;
+    }
+
+    p{
+        font-family: "Work Sans", sans-serif;
+        font-size: 22px;
+        color:#FFFFFF;
+        margin-top: 23px;
+    }
+
+    }
+    .nft_img{
+        margin-top: 13px;
+        margin-bottom:13px;
+        display:flex;
+        align-items: center;
+        gap:15px;
+    }
+
+    .nft_load_more{
+        padding:35px 18px;
+        background-color: #A259FF;
+        border-radius: 20px;
+        a{
+            font-family: "Work Sans", sans-serif;
+            font-size: 22px;
+            color:#FFFFFF;
+            text-decoration: none;
+
+        }
+    }
+   .tranding_img{
+
+    span{
+        font-family: "Work Sans", sans-serif;
+        font-size: 22px;
+        color:#FFFFFF;
+
+    }
+   }
+
+   .nft_icon{
+    margin-top: 13px;
+    display: flex;
+    gap:10px;
+    align-items: center;
+
+    span{
+        font-family: "Work Sans", sans-serif;
+        font-size: 16px;
+        color:#FFFFFF;
+    }
+   }

@@ -1,0 +1,95 @@
+.discover_items{
+
+    h2{
+
+        color:#FFFFFF;
+        font-family: "Work Sans", sans-serif;
+        font-size: 38px;
+
+    }
+}
+.discover_content {
+     display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+    align-items: center;
+
+    p{
+        color:#FFFFFF;
+        font-family: "Work Sans", sans-serif;
+        font-size: 22px;
+
+
+    }
+
+    button{
+
+         
+        display:flex;
+        align-items: center;
+        gap:5px;
+        padding:16px 35px;
+        border-radius: 20px;
+        background-color: transparent;
+        border:2px solid #A259FF;
+        color:#FFFFFF;
+        font-family: "Work Sans", sans-serif;
+        font-size: 16px;
+    }
+}
+
+.discover_images{
+
+    display:flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+.card_area_content{
+    padding:30px;
+    background-color: #3B3B3B;
+    height:173px;
+    max-width:330px;
+    margin-top: -2px;
+
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+     h2{
+        color:#FFFFFF;
+        font-family: "Work Sans", sans-serif;
+        font-size: 24px;
+
+     }
+
+}
+
+.card_area_content_av{
+    display:flex;
+    gap:10px;
+    span{
+        color:#FFFFFF;
+        font-family: "Space Mono";
+        font-size: 16px;
+    }
+}
+
+.card_area_content_price{
+
+      display:flex;
+    justify-content: space-between;
+    margin-top:20px;
+    span{
+        color:#7B7B7B;
+        font-family: "Space Mono";
+        font-size: 16px;
+    }
+}
+.card_area_content_etharium{
+
+    display:flex;
+    justify-content: space-between;
+    span{
+        color:#FFFFFF;
+        font-family: "Work Sans", sans-serif;
+        font-size: 16px;
+    }
+}
